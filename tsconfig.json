@@ -1,0 +1,37 @@
+{
+  "extends": "./tsconfig.base.json",
+  "compileOnSave": false,
+  "files": [],
+  "references": [
+    {
+      "path": "./apps/shoppers-point-e2e"
+    },
+    {
+      "path": "./apps/shoppers-point"
+    },
+    {
+      "path": "./apps/roletune-e2e"
+    },
+    {
+      "path": "./apps/roletune"
+    },
+    {
+      "path": "./apps/retro-games-e2e"
+    },
+    {
+      "path": "./apps/retro-games"
+    },
+    {
+      "path": "./libs/catalogue"
+    },
+    {
+      "path": "./libs/cart"
+    },
+    {
+      "path": "./libs/shared"
+    },
+    {
+      "path": "./libs/home"
+    }
+  ]
+}
