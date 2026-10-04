@@ -20,7 +20,7 @@
     "@nx/jest": "20.7.2",
     "@nx/js": "20.7.2",
     "@nx/playwright": "20.7.2",
-    "@nx/react": "20.7.2",
+    "@nx/react": "23.2.1",
     "@nx/vite": "20.7.2",
     "@nx/web": "20.7.2",
     "@nx/workspace": "20.7.2",
